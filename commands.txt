@@ -1,0 +1,7 @@
+start - Start the bot
+help - Gets a help message
+latest - Get [number] of latest photos from a [imageboard]
+random - Get [number] of random photos from a [imageboard]
+voice - Sends a [type] of voice clip
+card - Sends a [number] of official Kaede cards
+video - Sends a [number] of random videos from youtube 
